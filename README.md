@@ -8,28 +8,28 @@ You can try out the project here: [Space Curve Projector](https://www.desmos.com
 
 ## Features
 
-- **3D Space Curve Projection**: Project 3D curves defined by the variable \( r \), which is structured as:
-  \( r = [x(t), y(t), z(t)] \)
-- **Adjustable Viewpoints**: Change the angles \( \phi_p \) and \( \theta_p \) to alter the viewpoint in spherical coordinates.
-- **Perspective Adjustment**: Modify the perspective factor \( P \), where \( P \) is defined as \( \frac{1}{\rho} \). When \( P=0 \), the projection becomes parallel.
+- **3D Space Curve Projection**: Project 3D curves defined by the variable $r$, which is structured as:
+  $r = [x(t), y(t), z(t)]$
+- **Adjustable Viewpoints**: Change the angles $\phi_p$ and $\theta_p$ to alter the viewpoint in spherical coordinates.
+- **Perspective Adjustment**: Modify the perspective factor $P$, where $P$ is defined as $\frac{1}{\rho}$. When $P=0$, the projection becomes parallel.
 
 ## Usage
 
-1. Define your 3D space curve by specifying the functions for \( x(t) \), \( y(t) \), and \( z(t) \).
-2. Adjust \( \phi_p \) and \( \theta_p \) to explore the curve from different angles.
-3. Set the perspective factor \( P \) to modify how the curve is projected onto the 2D plane.
+1. Define your 3D space curve by specifying the functions for $x(t)$, $y(t)$, and $z(t)$.
+2. Adjust $\phi_p$ and $\theta_p$ to explore the curve from different angles.
+3. Set the perspective factor $P$ to modify how the curve is projected onto the 2D plane.
 
 ## Example
 
 Here's an example of defining a space curve:
 
-\( r = [\cos(t), \sin(t), t] \)
+$r = [\cos(t), \sin(t), t]$
 
 Then, you can adjust the angles and perspective as needed:
 
-\phi_p = \frac{\pi}{4}
-\theta_p = \frac{\pi}{4}
-P = 0.5
+$\phi_p = \frac{\pi}{4}$
+$\theta_p = \frac{\pi}{4}$
+$P = 0.5$
 
 ## Contributing
 
