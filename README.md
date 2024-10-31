@@ -1,6 +1,6 @@
 # Desmos Space Curve Projector
 
-This is the Desmos Space Curve Projector! It projects 3D parametric curves into 2D! You can define the curve, adjuct viewpoints, and change the perspective of the projection!
+This is the Space Curve Projector in Desmos! It projects 3D parametric curves into 2D! You can define the curve, adjuct viewpoints, and change the perspective of the projection!
 
 ## Demo
 
